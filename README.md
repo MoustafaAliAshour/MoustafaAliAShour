@@ -17,7 +17,7 @@ Here are some of the standout projects I’ve starred and explored:
 
 ## 📌 Featured Projects
 
-### 🎬 [Movie Recommendation App](https://github.com/MoustafaAliAshour/movie-recommendation-app)
+### 🎬 [Movie Recommendation System](https://github.com/MoustafaAliAshour/Movies-recommendation-System)
 A content-based movie recommender built with Streamlit.  
 It suggests similar movies, shows posters via the TMDb API, and links to their homepage.  
 > 📂 [Download Dataset](https://drive.google.com/drive/folders/1dee_crYzxxuqTw1FmurhMsnDPuV2ddKB?usp=drive_link)  
@@ -25,7 +25,7 @@ It suggests similar movies, shows posters via the TMDb API, and links to their h
 
 ---
 
-### 📊 [Breast Cancer Diagnosis Prediction App](https://github.com/MoustafaAliAshour/breast-cancer-app)
+### 📊 [Breast Cancer Diagnosis Prediction App](https://github.com/MoustafaAliAshour/Breast-Canser-preidiction-App)
 A Streamlit web app that predicts if a tumor is malignant or benign using logistic regression.  
 Includes interactive EDA with heatmaps, boxplots, and more.  
 > ⚙️ `Python`, `Logistic Regression`, `Streamlit`, `Seaborn`
@@ -46,7 +46,7 @@ Part of the DEPI Data Science Track.
 
 ---
 
-### 🎥 [Movie Recommendation System (TF-IDF)](https://github.com/MoustafaAliAshour/Movie-Recommendation-System)
+### 🎥 [Movie Recommendation App (TF-IDF)](https://github.com/MoustafaAliAshour/Movies-recommendation-App)
 Content-based movie recommender using TF‑IDF vectorization and cosine similarity.  
 Built with Streamlit to display posters, ratings, and overviews.  
 > ⚙️ `Python`, `TF-IDF`, `cosine similarity`, `Streamlit`, `scikit-learn`
