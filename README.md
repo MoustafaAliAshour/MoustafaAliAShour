@@ -48,6 +48,8 @@
 ![Transformers](https://img.shields.io/badge/-Transformers-FFD21E?style=flat)
 ![SHAP](https://img.shields.io/badge/-SHAP-4B8BBE?style=flat)
 ![LIME](https://img.shields.io/badge/-LIME-00C853?style=flat)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![NLTK](https://img.shields.io/badge/-NLTK-154F5B?style=flat)
 
 ### 📊 Data & Visualization
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
@@ -64,6 +66,21 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+### 🌐 Networks
+![TCP/IP](https://img.shields.io/badge/-TCP/IP-0052CC?style=flat)
+![HTTP/HTTPS](https://img.shields.io/badge/-HTTP/HTTPS-005C84?style=flat)
+![REST API](https://img.shields.io/badge/-REST_APIs-009688?style=flat)
+![DNS](https://img.shields.io/badge/-DNS-6A1B9A?style=flat)
+![Socket](https://img.shields.io/badge/-Socket_Programming-37474F?style=flat)
+![OSI](https://img.shields.io/badge/-OSI_Model-1565C0?style=flat)
+
+### 🔌 Embedded Systems
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white)
+![FPGA](https://img.shields.io/badge/-FPGA-8B0000?style=flat)
+![UART](https://img.shields.io/badge/-UART/SPI/I2C-546E7A?style=flat)
+![Microcontrollers](https://img.shields.io/badge/-Microcontrollers-455A64?style=flat)
 
 ### 🗄️ Databases & APIs
 ![MySQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -83,9 +100,9 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MoustafaAliAshour&theme=tokyonight" height="180"/>
 
-
 </div>
-## 📫 Let's Connect
+
+---
 
 ## 📫 Let's Connect
 
@@ -104,5 +121,7 @@
 </a>
 
 </div>
+
+---
 
 <p align="center">⭐️ If you find my projects useful, a star goes a long way — thanks for stopping by!</p>
