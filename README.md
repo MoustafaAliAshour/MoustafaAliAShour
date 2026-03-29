@@ -76,11 +76,13 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=MoustafaAliAshour&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MoustafaAliAshour&theme=tokyonight)](https://github.com/MoustafaAliAshour)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MoustafaAliAshour&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&exclude_repo=github-readme-stats)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MoustafaAliAshour&theme=tokyonight" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MoustafaAliAshour&theme=tokyonight" height="180"/>
 
-![](https://nirzak-streak-stats.vercel.app/?user=MoustafaAliAshour&theme=tokyonight&hide_border=true)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MoustafaAliAshour&theme=tokyonight" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MoustafaAliAshour&theme=tokyonight&utcOffset=2" height="180"/>
 
 </div>
 ---
