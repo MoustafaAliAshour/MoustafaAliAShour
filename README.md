@@ -1,69 +1,35 @@
-# 👋 Hi there, I'm Mostafa Ashour
+# Hi, I'm Moustafa Ashour 👋
+### ML & Full-Stack Developer · AI Minor · Alexandria, Egypt 🇪🇬
 
-Welcome to my GitHub! I'm a passionate software developer and machine learning enthusiast from Egypt 🇪🇬. I enjoy building intelligent, user-friendly applications using Python, machine learning, and web frameworks like Streamlit.
-
-## 💡 About Me
-
-- 🎓 Computer & Communications Engineering student  
-- 💻 Focused on data science, machine learning, and AI  
-- 🚀 Building cool things with Python, C, and Java  
-- 🎯 Always learning and open to new challenges  
+> *Third-year Computer & Communications Engineering student at the University of Alexandria (GPA 3.6/4.0), top 5% of 3,000+ DEPI trainees — building real AI solutions that go from raw data to deployed product.*
 
 ---
 
-## 🌟 Favorites from My Starred Repos
+## 🧠 About Me
 
-Here are some of the standout projects I’ve starred and explored:
-
-## 📌 Featured Projects
-
-### 🎬 [Movie Recommendation System](https://github.com/MoustafaAliAshour/Movies-recommendation-System)
-A content-based movie recommender built with Streamlit.  
-It suggests similar movies, shows posters via the TMDb API, and links to their homepage.  
-> 📂 [Download Dataset](https://drive.google.com/drive/folders/1dee_crYzxxuqTw1FmurhMsnDPuV2ddKB?usp=drive_link)  
-> ⚙️ `Python`, `Streamlit`, `scikit-learn`, `pandas`, `TMDb API`
+- 🎓 Studying **Computer & Communications Engineering** with a **minor in AI**
+- 🏆 Ranked **top 5%** out of 3,000+ trainees at the **Digital Egypt Pioneers Initiative (DEPI)**
+- 🤖 Passionate about **ML pipelines, model explainability, and end-to-end AI deployment**
+- 🔬 Built production models hitting **97.6% accuracy** on 96,000+ real-world medical records
+- 📜 **AI Certified** by Microsoft × EFE Egypt
+- 💬 *"I don't stop at 'it's not working' — I ask why."*
 
 ---
 
-### 📊 [Breast Cancer Diagnosis Prediction App](https://github.com/MoustafaAliAshour/Breast-Canser-preidiction-App)
-A Streamlit web app that predicts if a tumor is malignant or benign using logistic regression.  
-Includes interactive EDA with heatmaps, boxplots, and more.  
-> ⚙️ `Python`, `Logistic Regression`, `Streamlit`, `Seaborn`
+## 🚀 Featured Projects
+
+| Project | Stack | Highlight |
+|--------|-------|-----------|
+| [🩺 Diabetes Risk Prediction](https://github.com/rezk1834/diabetes_prediction_app) | XGBoost · SMOTE · Streamlit | 97.6% accuracy · 98% F1 · 96k+ records |
+| [🔬 Breast Cancer Diagnosis App](https://github.com/MoustafaAliAshour/Breast-Canser-preidiction-App) | Logistic Regression · Streamlit · Seaborn | 95%+ precision · Full EDA dashboard |
+| [❤️ Heart Disease Treatment Predictor](https://github.com/MoustafaAliAshour/Healt_Care_DEPi) | Random Forest · GridSearchCV · Streamlit | Multi-class treatment classification |
+| [🎬 Movie Recommendation System](https://github.com/MoustafaAliAshour/Movies-recommendation-System) | TF-IDF · Cosine Similarity · TMDb API | Content-based · Top-9 recommendations |
 
 ---
 
-### 🧠 [Diabetes Risk Prediction Using ML](https://github.com/rezk1834/diabetes_prediction_app)
-Assesses diabetes risk using patient data and an XGBoost model.  
-Full pipeline includes preprocessing, SMOTE balancing, visualizations, and Streamlit deployment.  
-> ⚙️ `Python`, `XGBoost`, `Pandas`, `SMOTE`, `Streamlit`
+## 🛠️ Tech Stack
 
----
-
-### ❤️ [Health Care Treatment Prediction (DEPI)](https://github.com/MoustafaAliAshour/Healt_Care_DEPi)
-Predicts heart disease treatment plans using a synthetic dataset and models like Random Forest and Logistic Regression.  
-Part of the DEPI Data Science Track.  
-> ⚙️ `Python`, `Random Forest`, `EDA`, `GridSearchCV`, `Streamlit`
-
----
-
-### 🎥 [Movie Recommendation App (TF-IDF)](https://github.com/MoustafaAliAshour/Movies-recommendation-App)
-Content-based movie recommender using TF‑IDF vectorization and cosine similarity.  
-Built with Streamlit to display posters, ratings, and overviews.  
-> ⚙️ `Python`, `TF-IDF`, `cosine similarity`, `Streamlit`, `scikit-learn`
-
----
-
-
-## 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoustafaAliAshour&layout=compact&theme=tokyonight&langs_count=6)
-
-> 💡 This chart shows the most-used programming languages across my public repositories.
-
----
-
-## 🛠 Languages & Tools
-### 💻 Programming Languages
+### 💻 Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
@@ -71,12 +37,10 @@ Built with Streamlit to display posters, ratings, and overviews.
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![VHDL](https://img.shields.io/badge/-VHDL-8B0000?style=flat)
-
-### 🌐 Web Technologies
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
 
-### 🤖 Machine Learning
+### 🤖 Machine Learning & AI
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white)
@@ -99,15 +63,22 @@ Built with Streamlit to display posters, ratings, and overviews.
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-### 🗄 Databases & APIs
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat)
+### 🗄️ Databases & APIs
+![MySQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![TMDb API](https://img.shields.io/badge/-TMDb_API-01B4E4?style=flat)
 
 ---
 
-## 📫 Connect with Me
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoustafaAliAshour&layout=compact&theme=tokyonight&langs_count=6)
+
+---
+
+## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moustafa-ashour0/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:es-moustafa.aly2027@alexu.edu.eg)
@@ -115,4 +86,4 @@ Built with Streamlit to display posters, ratings, and overviews.
 
 ---
 
-⭐️ Thanks for visiting my profile! Don’t forget to explore my projects and give a ⭐ if you find them helpful!
+<p align="center">⭐️ If you find my projects useful, a star goes a long way — thanks for stopping by!</p>
