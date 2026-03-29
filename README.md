@@ -74,7 +74,11 @@
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoustafaAliAshour&layout=compact&theme=tokyonight&langs_count=6)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MoustafaAliAshour&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoustafaAliAshour&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=MoustafaAliAshour&theme=tokyonight&hide_border=true)
 
 ---
 
