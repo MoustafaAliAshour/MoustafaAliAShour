@@ -74,18 +74,15 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MoustafaAliAshour&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoustafaAliAshour&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MoustafaAliAshour&theme=tokyonight&hide_border=true"/>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=MoustafaAliAshour&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=MoustafaAliAshour&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MoustafaAliAshour&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&exclude_repo=github-readme-stats)
 
+![](https://nirzak-streak-stats.vercel.app/?user=MoustafaAliAshour&theme=tokyonight&hide_border=true)
+
+</div>
 ---
 
 ## 📫 Let's Connect
