@@ -74,9 +74,15 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MoustafaAliAshour&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MoustafaAliAshour&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoustafaAliAshour&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160"/>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoustafaAliAshour&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MoustafaAliAshour&theme=tokyonight&hide_border=true"/>
+</p>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=MoustafaAliAshour&theme=tokyonight&hide_border=true)
 
