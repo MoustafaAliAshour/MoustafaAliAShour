@@ -85,14 +85,24 @@
 
 
 </div>
----
+## 📫 Let's Connect
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moustafa-ashour0/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:es-moustafa.aly2027@alexu.edu.eg)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://moustafa-ashour.netlify.app/)
+<div align="center">
 
----
+<a href="https://www.linkedin.com/in/moustafa-ashour0/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:es-moustafa.aly2027@alexu.edu.eg">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://moustafa-ashour.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
 
 <p align="center">⭐️ If you find my projects useful, a star goes a long way — thanks for stopping by!</p>
